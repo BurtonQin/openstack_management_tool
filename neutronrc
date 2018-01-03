@@ -1,0 +1,2 @@
+network_vlan_ranges=physnet1,physnet2,physnet3
+bridge_mappings=physnet1:br-eth1-101,physnet2:br-eth2-102,physnet3:br-eth3-103

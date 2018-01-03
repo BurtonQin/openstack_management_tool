@@ -1,0 +1,14 @@
+# set up env variables for install
+export OS_TENANT_NAME=admin
+export OS_USERNAME=admin
+export OS_PASSWORD=open123
+export OS_AUTH_URL="http://openstack.gtensor.com:5000/v2.0/"
+export OS_REGION_NAME=regionOne
+export SG_SERVICE_CONTROLLER_IP=openstack.gtensor.com
+export SG_SERVICE_CONTROLLER_NIC=
+export SG_SERVICE_TENANT_NAME=service
+export SG_SERVICE_EMAIL=bobbqqin@bupt.edu.cn
+export SG_SERVICE_PASSWORD=open123
+export SG_SERVICE_TOKEN=11611487afbe84cac77c0fedd7809927
+export SG_SERVICE_REGION=regionOne
+export LOOPSIZE=1

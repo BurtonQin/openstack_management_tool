@@ -1,0 +1,24 @@
+# =================set env variables=================
+export OS_TENANT_NAME=admin
+export OS_USERNAME=admin
+export OS_PASSWORD=open123
+export OS_AUTH_URL="http://openstack.gtensor.com:5000/v2.0/"
+export OS_REGION_NAME=regionOne
+
+export ADMIN_PASSWORD=open123
+export OS_ADMIN_PASSWORD=open123
+
+export SERVICE_PASSWORD=open123
+export OS_SERVICE_PASSWORD=open123
+
+export SERVICE_TOKEN=11611487afbe84cac77c0fedd7809927
+export OS_SERVICE_TOKEN=11611487afbe84cac77c0fedd7809927
+
+export SERVICE_ENDPOINT="http://openstack.gtensor.com:35357/v2.0"
+export OS_SERVICE_ENDPOINT="http://openstack.gtensor.com:35357/v2.0"
+
+export SERVICE_TENANT_NAME=service
+export OS_SERVICE_TENANT_NAME=service
+
+export KEYSTONE_REGION=regionOne
+export OS_KEYSTONE_REGION=regionOne
